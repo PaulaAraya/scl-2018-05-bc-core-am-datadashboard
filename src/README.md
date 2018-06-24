@@ -22,27 +22,27 @@ Objetivo principal de esta plataforma es graficar visualmente el progreso de ava
 El proceso de diseño se basó en la entrevista, analisis de estructura del lms y la revisión de algunas data dashboard de universidades. El sketch y el prototipo de alta fidelidades es el resultado de la investigación.
 
 sketch: 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%201.jpeg
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%201.jpeg)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%202.jpeg
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%202.jpeg)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%203.jpeg
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/scketch/Scketch%203.jpeg)
 
 prototipo de alta fidelidad:
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/0.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/0.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/1.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/1.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/2.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/2.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/3.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/3.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/4.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/4.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/5.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/5.png)
 
-![alt text]https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/6.png
+![alt text](https://github.com/CarolinAraya/scl-2018-05-bc-core-am-datadashboard/blob/master/Prototipo%20UX/prototipo-alta-fidelidad/6.png)
 
 
 
