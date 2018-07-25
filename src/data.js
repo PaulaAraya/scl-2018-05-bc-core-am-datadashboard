@@ -119,7 +119,7 @@ window.computeUsersStats = (users, progresses, courses) => {//Las llaves de los 
           let key = courses[j];
           let course = progress[key];//busco en el progreso q estoy tal curso...
 
-          if (course) {//validacion, y declaro vars q me serivrán para rellenar las stats
+          if (course) {//validacion, y declaro lets q me serivrán para rellenar las stats
             let totalParts = 0;//partes q existen en total en todo el progreso de tal usuario
             let completedParts = 0;//partes q se han completado para este usuario
             let totalReads = 0;//lecturas q ha tenido
@@ -321,7 +321,7 @@ window.filterUsers = (users, search) => {
 window.processCohortData = (options) => {
   if (options && options.cohortData && options.cohortData.users) {
     let filteredUsers = window.filterUsers(options.cohortData.users, options.search);
-    
+    //orderBy son lo elementos a ordenar
     return window.sortUsers(filteredUsers, options.orderBy, options.orderDirection);//usuarios ya filtrados para organizar más rápido
   }
   return [];//devuelvo todos los usuarios si no hay q filtrar
